@@ -15,7 +15,8 @@
 値を変えるだけで色々な時計を作ることができる。
 
 ![image](https://github.com/user-attachments/assets/7ba0e6e4-8f8b-496f-9b0b-546e85101178)
-![image](https://github.com/user-attachments/assets/48700c7c-e6dc-4710-b4f6-46273152df70)
+![image](https://github.com/user-attachments/assets/927302e8-afb9-417c-80aa-11775e467dbf)
+
 
 「Clock_pygame」...blockのカラーを自由に変えたり、表示数を変えたりすることができる。
 
